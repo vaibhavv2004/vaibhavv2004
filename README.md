@@ -54,7 +54,7 @@ I'm **Vaibhav**, an Integrated MSc Data Science student with a strong interest i
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
 | **[ParkSmart-RL](https://github.com/vaibhavv2004/ParkSmart-RL)**    | ParkSmart-RL: PPO-based intelligent parking slot selection using reinforcement learning. Agent optimizes cost, distance & availability in a dynamic 12-slot lot. Real-time Pygame visualization with vehicle path tracing, reward heatmap & interactive controls. Built with Stable-Baselines3, Gymnasium and Python. |
-| **[Project 2](https://github.com/)**    | Short Description |
+| **[UFO-Sightings-Forecasting-with-Graph-Based-ML](https://github.com/vaibhavv2004/UFO-Sightings-Forecasting-with-Graph-Based-ML/blob/main/README.md)**    | End-to-end project that analyzes global UFO sighting data (1900–2024), builds a region similarity graph, and trains machine learning models to forecast monthly sightings and predict 2026 hotspot regions. |
 | **[Project 3](https://github.com/)**    | Short Description | 
 
 ---
