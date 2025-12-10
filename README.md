@@ -38,6 +38,8 @@ I'm **Vaibhav**, an Integrated MSc Data Science student with a strong interest i
 
 <div>
 <img src="https://img.shields.io/badge/HackerRank_SQL-Basic_Certified?style=for-the-badge&logo=hackerrank&logoColor=white&color=000000" alt="HackerRank SQL Basic Certification" />
+<img src="https://img.shields.io/badge/Complete_Guide_to_Power_BI_for_Data_Analysts-Microsoft_Press_(LinkedIn_Learning)?style=for-the-badge&logo=powerbi&logoColor=white&color=F2C811" alt="Complete Guide to Power BI for Data Analysts – Microsoft Press (LinkedIn Learning)" />
+
 <img src="https://img.shields.io/badge/NPTEL_Python_for_Data_Science-Certified-orange?style=for-the-badge&color=000000" alt="NPTEL Certification" />
 <img src="https://img.shields.io/badge/Infosys_Springboard_Email_Writing-Certified-blue?style=for-the-badge&color=000000" alt="Infosys Springboard Certification" />
 
