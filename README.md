@@ -1,6 +1,6 @@
 ## Hi there
 
-I'm **Vaibhav**, an Integrated MSc Data Science student with a strong interest in data analytics, AI, machine learning, and deep learning. I enjoy exploring complex datasets, building predictive models, and applying AI/ML techniques to solve real-world problems. My goal is to gain expertise in data-driven decision-making and contribute to innovative, impactful solutions in the field of data science.
+I'm **Vaibhav**, Final Year Integrated MSc Data Science student with a strong interest in Data Analytics, AI, Machine Learning, Deep Learning, RAG. I enjoy exploring complex datasets, building predictive models, and applying AI/ML techniques to solve real-world problems. My goal is to gain expertise in data-driven decision-making and contribute to innovative, impactful solutions in the field of data science.
 
 <a href="https://www.linkedin.com/in/vaibhav-s-087b19313/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
