@@ -4,7 +4,7 @@ I'm **Vaibhav**, an Integrated MSc Data Science student with a strong interest i
 
 <a href="https://www.linkedin.com/in/vaibhav-s-087b19313/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<a href="https://github.com/vaibhavv2004/Resume">
+<a href="https://github.com/vaibhavv2004/Resume/blob/main/Vaibhav_S_Resume.pdf">
     <img src="https://img.shields.io/badge/-Resume-DC3545?&style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
 </a>
 
