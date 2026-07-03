@@ -20,18 +20,18 @@ I'm **Vaibhav**, an Integrated MSc Data Science student with a strong interest i
 ## 💼 Experience
 
 ### **Data Analyst Intern**
-**Company:** *[Company Name]*  
+**Company:** *AVA CHOLAYIL HEALTH CARE PVT. LTD.*  
 **Duration:** June 2026 – Present
 
-- Collaborating with the sales team to understand Sales Force Automation (SFA) workflows and business requirements.
-- Cleaning, transforming, and analyzing sales data to generate actionable business insights.
-- Developing interactive Power BI dashboards and reports for monitoring sales performance and KPIs.
-- Writing SQL queries to extract, validate, and analyze data from multiple sources.
-- Supporting data-driven decision-making by identifying sales trends and performance metrics.
-- Working with cross-functional teams to improve reporting efficiency and data quality.
+- Collaborating with cross-functional teams, including sales, to understand business process and Sales Force
+  Automation (SFA) workflows.
+- Analysing real-world business datasets to identify trends and support data-driven decision-making.
+- Contributing to dashboards and reports that improve visibility into key business metrics and operational efficiency.
+- Applying analytical tools and techniques (Excel, Python, Power BI) to convert raw data into actionable insights
+
 
 **Tools & Technologies:**  
-`Power BI` `SQL` `Python` `Excel`
+`Power BI` `Python` `Excel` `SQL`
 
 <h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
 
