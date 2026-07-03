@@ -13,8 +13,9 @@ I'm **Vaibhav**, an Integrated MSc Data Science student with a strong interest i
 
 - **Name**: Vaibhav
 - **From**: Kerala, India
+- Currently working as a **Data Analyst Intern**.
 - I have achieved First Prize in Inter-Campus Table Tennis and First Prize in Mime during the Gokulashtami celebrations.
-- Completed a project in Reinforcement Learning titled “RL-Based Autonomous Parking Slot Selection” and another project using Machine Learning and Graph-Based Learning titled “Global UFO Sightings Forecasting Using Network-Enhanced Time Series Analysis.”
+- Completed a project in Adaptive RAG System with Knowledge Gap Detection for Medical Information Retreival,  Reinforcement Learning titled “RL-Based Autonomous Parking Slot Selection” and another project using Machine Learning and Graph-Based Learning titled “Global UFO Sightings Forecasting Using Network-Enhanced Time Series Analysis.”
 
 </details>
 <br>
